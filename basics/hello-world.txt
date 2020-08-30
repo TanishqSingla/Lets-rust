@@ -1,5 +1,0 @@
-Notes about rust
-
-Like C main function is special and is the first code executed in the program.
-
-One of the point to be noted is the print statement which prints the sentence "hello world" is a macro and not a function, println! has '!' in it, which differentiates it from a function.

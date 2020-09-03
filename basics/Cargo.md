@@ -14,7 +14,7 @@ this command would create a directory with your project name and also create a C
 
 ### Commands
 
-Build command - `$ cargo build`.
-Run command (To run your project) - `$ cargo run`.
-Build the project without creating an executable `$ cargo check`.
-Build release of your project `$ cargo build --release`.
+- Build command - `$ cargo build`.
+- Run command (To run your project) - `$ cargo run`.
+- Build the project without creating an executable `$ cargo check`.
+- Build release of your project `$ cargo build --release`.

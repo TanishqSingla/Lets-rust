@@ -4,10 +4,10 @@ Cargo is the package manager and build system. It is used to manage projects bec
 
 ## Creating a project with cargo
 
-To create a new project with cargo run the following command.\
+To create a new project with cargo run the following command.
 
 ```bash
-$ cargo new <project name>
+cargo new <project name>
 ```
 
 this command would create a directory with your project name and also create a Cargo.toml and src/ directory containing main.rs file.
